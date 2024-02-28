@@ -606,14 +606,14 @@
     //"terminal.ansiBlue": "#2472c8",
     //"terminal.ansiBrightBlack": "#666666",
     //"terminal.ansiBrightBlue": "#3b8eea",
-    "terminal.ansiBrightCyan": "#97dcfe"
-    //"terminal.ansiBrightGreen": "#23d18b",
-    //"terminal.ansiBrightMagenta": "#d670d6",
+    "terminal.ansiBrightCyan": "#97dcfe",
+    "terminal.ansiBrightGreen": "#23d18b",
+    "terminal.ansiBrightMagenta": "#FF7291",
     //"terminal.ansiBrightRed": "#f14c4c",
     //"terminal.ansiBrightWhite": "#e5e5e5",
     //"terminal.ansiBrightYellow": "#f5f543",
     //"terminal.ansiCyan": "#11a8cd",
-    //"terminal.ansiGreen": "#0dbc79",
+    "terminal.ansiGreen": "#bcd3ea"
     //"terminal.ansiMagenta": "#bc3fbc",
     //"terminal.ansiRed": "#cd3131",
     //"terminal.ansiWhite": "#e5e5e5",
